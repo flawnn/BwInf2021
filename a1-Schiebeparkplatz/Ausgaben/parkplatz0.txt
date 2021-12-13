@@ -1,0 +1,7 @@
+A: Kein Bewegen nötig
+B: Kein Bewegen nötig
+C: H 1 Rechts
+D: H 1 Links
+E: Kein Bewegen nötig
+F: H 1 Links, I 2 Links
+G: I 1 Links

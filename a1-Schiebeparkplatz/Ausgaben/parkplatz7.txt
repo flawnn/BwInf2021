@@ -1,0 +1,15 @@
+A: Kein Bewegen nötig
+B: Keine Ausfahrt möglich
+C: O 1 Links
+D: Keine Ausfahrt möglich
+E: O 1 Links, P 1 Links
+F: Keine Ausfahrt möglich
+G: O 1 Links, P 1 Links, Q 1 Links
+H: Keine Ausfahrt möglich
+I: O 1 Links, P 1 Links, Q 1 Links, U 1 Links
+J: Keine Ausfahrt möglich
+K: O 1 Links, P 1 Links, Q 1 Links, U 1 Links, R 1 Links
+L: Keine Ausfahrt möglich
+M: O 1 Links, P 1 Links, Q 1 Links, U 1 Links, R 1 Links, V 1 Links
+N: Keine Ausfahrt möglich
+O: O 1 Links, P 1 Links, Q 1 Links, U 1 Links, R 1 Links, V 1 Links, S 1 Links

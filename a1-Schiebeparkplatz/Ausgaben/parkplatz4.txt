@@ -1,0 +1,16 @@
+A: R 1 Rechts, Q 1 Rechts
+B: R 2 Rechts, Q 2 Rechts
+C: R 1 Rechts
+D: R 2 Rechts
+E: Kein Bewegen nötig
+F: Kein Bewegen nötig
+G: S 1 Rechts
+H: S 1 Links
+I: Kein Bewegen nötig
+J: Kein Bewegen nötig
+K: T 1 Rechts
+L: T 1 Links
+M: Kein Bewegen nötig
+N: U 1 Rechts
+O: U 1 Links
+P: Kein Bewegen nötig

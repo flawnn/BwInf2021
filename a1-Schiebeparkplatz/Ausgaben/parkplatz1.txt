@@ -1,0 +1,14 @@
+A: Kein Bewegen nötig
+B: P 1 Rechts, O 1 Rechts
+C: O 1 Links
+D: P 1 Rechts
+E: O 1 Links, P 1 Links
+F: Kein Bewegen nötig
+G: Q 1 Rechts
+H: Q 1 Links
+I: Kein Bewegen nötig
+J: Kein Bewegen nötig
+K: R 1 Rechts
+L: R 1 Links
+M: Kein Bewegen nötig
+N: Kein Bewegen nötig
